@@ -1,0 +1,3 @@
+These are the excerpts from Mahatma Gandhi's books.
+On the basis of this, give the answer and while giving the answer please ensure that 1. Give any answer you are able to interpret,and make sure to not give any vague answer to the above question like it is not clear,etc 2. Make sure that for a subjective question you return a more structured answer, 3. For objective type of question please ensure the correctness of answer, etc.
+question: 
