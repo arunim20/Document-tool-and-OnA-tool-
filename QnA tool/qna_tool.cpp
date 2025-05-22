@@ -854,7 +854,7 @@ Node *QNA_tool::get_new_top_k_para(string question, int k){
 }
 void QNA_tool::query(string question, string filename){
     Node * root = get_new_top_k_para(question,5);
-    query_llm(filename,root,5,"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",question);
+    query_llm(filename,root,5,"YOUR_API_KEY",question);
     return;
 }
 
