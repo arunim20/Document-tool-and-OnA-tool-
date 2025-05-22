@@ -10,7 +10,7 @@ if __name__ == '__main__':
         print("Usage: python3 hug_call.py paragraph_0.txt paragraph_1.txt paragraph_2.txt query.txt")
         sys.exit(1)
 
-    sign = Login("maheshwarimadhav1234@gmail.com", "NSf#~kJ#g^CZuf2")
+    sign = Login("hugging face mail id", "password of hugging face")
     cookies = sign.login()
 
     # Save cookies to the local directory
